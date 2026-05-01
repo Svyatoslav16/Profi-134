@@ -1,0 +1,4 @@
+node_modules
+.env
+consumer-service/node_modules/
+producer-service/node_modules/

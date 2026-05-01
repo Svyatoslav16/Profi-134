@@ -1,5 +1,7 @@
 # Profi-134
 
+Ссылка на видео демонстрацию https://disk.yandex.ru/i/GpJDDLOXaRM11w
+
 Тестовое задание по микросервисной архитектуре на Nest.js с RabbitMQ и Telegram API
 
 ## Настройка
